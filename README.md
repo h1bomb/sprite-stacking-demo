@@ -37,11 +37,12 @@ left-to-right into `code_car_slices.png`, ground slice first.
 
 ## Interactive demo / 交互演示
 
-Published on GitHub Pages:
+The static files are ready for GitHub Pages. A repository admin needs to turn
+the site on once: Settings → Pages → Deploy from a branch, branch `main`,
+folder `/ (root)`. The address will be:
 
-https://h1bomb.github.io/sprite-stacking-demo/
-
-已发布到 GitHub Pages：
+静态文件已经放在仓库根目录。仓库管理员还需要打开一次：Settings → Pages →
+Deploy from a branch，分支选 `main`，目录选 `/ (root)`。地址将是：
 
 https://h1bomb.github.io/sprite-stacking-demo/
 

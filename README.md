@@ -37,8 +37,16 @@ left-to-right into `code_car_slices.png`, ground slice first.
 
 ## Interactive demo / 交互演示
 
-Serve the repository root over HTTP (opening the file directly may block the
-JSON metadata request) and open `demo.html`:
+Published on GitHub Pages:
+
+https://h1bomb.github.io/sprite-stacking-demo/
+
+已发布到 GitHub Pages：
+
+https://h1bomb.github.io/sprite-stacking-demo/
+
+To run it locally, serve the repository root over HTTP (opening the file
+directly may block the JSON metadata request) and open `demo.html`:
 
 请从仓库根目录用 HTTP 打开（直接用 `file://` 打开时，浏览器可能拦掉切片元数据的
 `fetch` 请求）：
